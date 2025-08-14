@@ -28,6 +28,4 @@ LinkedIn: linkedin.com/in/ponnu-soman
 
 🎯 **When I'm Not Coding** 
 
-When I'm away from my laptop, you'll find me binge-watching movies and series 🎬, listening to music 🎵, or practicing classical dance 💃. 
-
-I also enjoy playing badminton 🏸 to stay active and have fun!
+When I'm away from my laptop, you'll find me binge-watching movies and series 🎬, listening to music 🎵, or practicing classical dance 💃. I also enjoy playing badminton 🏸 to stay active and have fun!
