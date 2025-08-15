@@ -24,7 +24,7 @@ Feel free to reach out if you want to chat about data science, collaborate on pr
 
 Email: ponnus1601@gmail.com
 
-[LinkedIn](www.linkedin.com/in/ponnu-soman) 
+[LinkedIn](https://www.linkedin.com/in/ponnu-soman) 
 
 ## 🎯 **When I'm Not Coding** 
 
