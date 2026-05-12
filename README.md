@@ -52,12 +52,15 @@ Advanced Excel (Pivot Tables, Power Query, VBA) • Streamlit • Git • GitHub
 ### 📊 Featured Projects
 
 🔹 **[Customer Churn Prediction](https://github.com/ponnu1601/customer-churn-analysis)** — `Python • Scikit-learn • Logistic Regression • Pandas`
+
 Analyzed a telecommunications dataset of 7,043 customers (26.6% churn rate, 21 features). Implemented logistic regression with balanced class weighting, achieving **80.65% accuracy** and **85.2% ROC-AUC**. Identified contract duration, service type, and customer tenure as dominant churn drivers.
 
 🔹 **[E-Commerce Data Pipeline with ML Forecasting](https://github.com/ponnu1601/ecommerce-data-pipeline)** — `Python • Snowflake • dbt Core • Prefect • Prophet • Isolation Forest • Streamlit • Groq API`
+
 Architected a fully automated end-to-end e-commerce pipeline with dbt transformation across 6 tables (36 data quality tests, all passing) and Prefect daily orchestration. Deployed Prophet forecasting models for 30-day revenue and 7-day per-product demand across 20 products, plus a four-page Streamlit dashboard with a Groq-powered AI assistant executing live SQL against Snowflake.
 
 🔹 **Snohomish County LIDAC Survey Analysis System** — `Power BI • Azure PostgreSQL • DAX`
+
 Four-component interactive dashboard (survey selection, geographic filtering, question-level analysis, theme visualization) that automated community survey reporting for county decision-makers — eliminating reliance on external consultants and enabling timely equity insights for resource allocation and policy development. *(Capstone Project)*
 
 📂 *Check out my pinned repositories below for more!*
